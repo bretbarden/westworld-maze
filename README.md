@@ -28,4 +28,4 @@ All artwork was created by Clae Lu (c) 2023, based on themes from HBO’s Westwo
 
 
 # GitHub Link:
-https://github.com/clayruh/phase-3-final-westworld
+https://github.com/bretbarden/westworld-maze
