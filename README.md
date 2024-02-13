@@ -1,7 +1,7 @@
 # Westworld Maze ReadMe
 
 A Pygame inspired by Westworld the tv show.
-![Westworld Pygame display](/assets/images/WestworldMazeGame.png "Westworld maze game display")
+![Westworld Pygame display](/assets/images/westworld-maze.jpg "Westworld maze game display")
 
 
 # To start Westworld Maze:
